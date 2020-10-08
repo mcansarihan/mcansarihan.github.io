@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Murat Can SARIHAN"
-  avatar           : "profile.png"
+  name             : "Murat Can Sarıhan"
+  avatar           : "https://media-exp1.licdn.com/dms/image/C4E03AQF5UuKYn75z_Q/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=sIin7Rt6jTk70ePz18n1JlLhptNpuIeU0K7SU9xMoVw"
   bio              : "Researcher at UCLA, Quantum Optics and Communications"
   location         : "Los Angeles, CA"
-  employer         : "University of California, Los Angeles
+  employer         : "University of California, Los Angeles"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tr/citations?user=a563E08AAAAJ&hl=en&oi=sra"
   email            : "mailto:mcansarihan@ucla.edu"
